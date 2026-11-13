@@ -1,0 +1,61 @@
+ciudad,mes,temp_max,metrica
+Cochabamba,1,22.18,M2_temp_max_prom_mensual
+Cochabamba,2,21.24,M2_temp_max_prom_mensual
+Cochabamba,3,21.03,M2_temp_max_prom_mensual
+Cochabamba,4,22.36,M2_temp_max_prom_mensual
+Cochabamba,5,23.21,M2_temp_max_prom_mensual
+Cochabamba,6,22.58,M2_temp_max_prom_mensual
+Cochabamba,7,23.22,M2_temp_max_prom_mensual
+Cochabamba,8,24.03,M2_temp_max_prom_mensual
+Cochabamba,9,25.29,M2_temp_max_prom_mensual
+Cochabamba,10,25.97,M2_temp_max_prom_mensual
+Cochabamba,11,25.39,M2_temp_max_prom_mensual
+Cochabamba,12,23.22,M2_temp_max_prom_mensual
+La Paz,1,14.88,M2_temp_max_prom_mensual
+La Paz,2,14.69,M2_temp_max_prom_mensual
+La Paz,3,14.53,M2_temp_max_prom_mensual
+La Paz,4,14.87,M2_temp_max_prom_mensual
+La Paz,5,15.12,M2_temp_max_prom_mensual
+La Paz,6,14.47,M2_temp_max_prom_mensual
+La Paz,7,14.87,M2_temp_max_prom_mensual
+La Paz,8,15.42,M2_temp_max_prom_mensual
+La Paz,9,16.16,M2_temp_max_prom_mensual
+La Paz,10,16.86,M2_temp_max_prom_mensual
+La Paz,11,17.25,M2_temp_max_prom_mensual
+La Paz,12,15.77,M2_temp_max_prom_mensual
+Santa Cruz de la Sierra,1,30.05,M2_temp_max_prom_mensual
+Santa Cruz de la Sierra,2,29.5,M2_temp_max_prom_mensual
+Santa Cruz de la Sierra,3,29.27,M2_temp_max_prom_mensual
+Santa Cruz de la Sierra,4,27.77,M2_temp_max_prom_mensual
+Santa Cruz de la Sierra,5,24.52,M2_temp_max_prom_mensual
+Santa Cruz de la Sierra,6,23.57,M2_temp_max_prom_mensual
+Santa Cruz de la Sierra,7,24.43,M2_temp_max_prom_mensual
+Santa Cruz de la Sierra,8,27.06,M2_temp_max_prom_mensual
+Santa Cruz de la Sierra,9,29.7,M2_temp_max_prom_mensual
+Santa Cruz de la Sierra,10,30.53,M2_temp_max_prom_mensual
+Santa Cruz de la Sierra,11,30.33,M2_temp_max_prom_mensual
+Santa Cruz de la Sierra,12,29.77,M2_temp_max_prom_mensual
+Tarija,1,24.06,M2_temp_max_prom_mensual
+Tarija,2,23.11,M2_temp_max_prom_mensual
+Tarija,3,22.54,M2_temp_max_prom_mensual
+Tarija,4,21.53,M2_temp_max_prom_mensual
+Tarija,5,19.85,M2_temp_max_prom_mensual
+Tarija,6,20.61,M2_temp_max_prom_mensual
+Tarija,7,20.97,M2_temp_max_prom_mensual
+Tarija,8,22.55,M2_temp_max_prom_mensual
+Tarija,9,24.47,M2_temp_max_prom_mensual
+Tarija,10,25.23,M2_temp_max_prom_mensual
+Tarija,11,24.51,M2_temp_max_prom_mensual
+Tarija,12,24.01,M2_temp_max_prom_mensual
+Trinidad,1,30.02,M2_temp_max_prom_mensual
+Trinidad,2,29.72,M2_temp_max_prom_mensual
+Trinidad,3,29.87,M2_temp_max_prom_mensual
+Trinidad,4,29.67,M2_temp_max_prom_mensual
+Trinidad,5,28.07,M2_temp_max_prom_mensual
+Trinidad,6,27.8,M2_temp_max_prom_mensual
+Trinidad,7,29.31,M2_temp_max_prom_mensual
+Trinidad,8,30.97,M2_temp_max_prom_mensual
+Trinidad,9,32.8,M2_temp_max_prom_mensual
+Trinidad,10,32.5,M2_temp_max_prom_mensual
+Trinidad,11,31.06,M2_temp_max_prom_mensual
+Trinidad,12,30.21,M2_temp_max_prom_mensual
